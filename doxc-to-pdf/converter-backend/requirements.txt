@@ -1,5 +1,1 @@
-fastapi
-uvicorn[standard]
-python-multipart
-unoserver
-
+dxpdf==0.2.25
